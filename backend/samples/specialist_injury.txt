@@ -1,0 +1,28 @@
+FIRST NOTICE OF LOSS — INJURY
+
+Policy Number: POL-2025-660184
+Policyholder Name: Daniel R. O'Connor
+Effective From: 2024-11-01
+Effective To: 2025-10-31
+
+INCIDENT
+Date: 2026-02-09
+Time: 07:55
+Location: I-280 N exit 43, Daly City, CA
+Description: Multi-vehicle collision during morning commute. Our insured sustained a
+whiplash injury and a suspected concussion, transported to Seton Medical Center. 
+Second vehicle driver also reported neck pain. Documentation is consistent.
+
+INVOLVED PARTIES
+Claimant: Daniel R. O'Connor — (415) 555-4410 — doconnor@example.com
+Third Party: Miguel Alvarez — (650) 555-7720
+
+ASSET
+Asset Type: Auto
+Asset ID: VIN JTDKN3DU7E0379845
+Estimated Damage: 18200
+
+Claim Type: injury
+
+Attachments: ambulance_report.pdf, hospital_intake.pdf, photos_vehicle.jpg
+Initial Estimate: 42000
