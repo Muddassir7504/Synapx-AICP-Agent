@@ -1,0 +1,28 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL-2025-441209
+Policyholder Name: Priya N. Shah
+Effective From: 2025-03-15
+Effective To: 2026-03-14
+
+INCIDENT
+Date: 2026-01-18
+Time: 21:42
+Location: 1820 Brookhaven Ave, Atlanta, GA 30309
+Description: Kitchen fire that spread to the adjacent dining area caused by an unattended
+cooking appliance. Fire department attended and confirmed the cause as accidental. 
+Structural damage is extensive — walls, cabinetry, appliances, flooring. No injuries.
+All supporting documents are attached and consistent.
+
+INVOLVED PARTIES
+Claimant: Priya N. Shah — (404) 555-8820 — pshah@example.com
+
+ASSET
+Asset Type: Home
+Asset ID: Property #ATL-PR-018204
+Estimated Damage: 78500
+
+Claim Type: property
+
+Attachments: fire_dept_report.pdf, photos_kitchen_01.jpg, photos_kitchen_02.jpg, photos_dining.jpg
+Initial Estimate: 82000
